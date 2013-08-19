@@ -1,6 +1,6 @@
 # Nill - Nano Image Lazy Loader
 
-Nano is a pure blood and superfast JavaScript image lazy loading tool.
+Nill is a pure blood and superfast JavaScript image lazy loading tool.
 
 Usage:
 
